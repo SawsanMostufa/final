@@ -1,0 +1,553 @@
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\appsettings.Development.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.exe
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.deps.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.runtimeconfig.dev.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Api.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Humanizer.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Pipelines.Sockets.Unofficial.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\StackExchange.Redis.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Diagnostics.PerformanceCounter.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.AssemblyReference.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfoInputs.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.AssemblyInfo.cs
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CoreCompileInputs.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\scopedcss\bundle\ECommerice.Api.styles.css
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\staticwebassets\ECommerice.Api.StaticWebAssets.Manifest.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.RazorTargetAssemblyInfo.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.csproj.CopyComplete
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\refint\ECommerice.Api.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ECommerice.Api.genruntimeconfig.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Api\obj\Debug\net5.0\ref\ECommerice.Api.dll

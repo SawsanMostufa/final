@@ -1,0 +1,126 @@
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\Angular\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\Projects\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\Foad\Sawasan\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\mohamed fouad\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+E:\sawsan\update-API-27-10-2022\update-API-27-10-2022\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.deps.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.runtimeconfig.dev.json
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\bin\Debug\net5.0\ECommerice.Core.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.AssemblyReference.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfoInputs.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.AssemblyInfo.cs
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CoreCompileInputs.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.csproj.CopyComplete
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\refint\ECommerice.Infrastructure.dll
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.pdb
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ECommerice.Infrastructure.genruntimeconfig.cache
+D:\mr-ayman\ECommerce_API_Final\ECommerice.Infrastructure\obj\Debug\net5.0\ref\ECommerice.Infrastructure.dll

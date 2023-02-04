@@ -1,0 +1,12 @@
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\bin\Release\net5.0\ECommerice.Core.deps.json
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\bin\Release\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\bin\Release\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.csproj.AssemblyReference.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.AssemblyInfoInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.AssemblyInfo.cs
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.csproj.CoreCompileInputs.cache
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\refint\ECommerice.Core.dll
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ECommerice.Core.pdb
+D:\mohamed fouad\ECommerce_API_Final\ECommerice.Core\obj\Release\net5.0\ref\ECommerice.Core.dll
